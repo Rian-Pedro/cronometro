@@ -90,3 +90,5 @@ Para resolução de <b>bugs</b> tive que criar uma variavel chama <span style="c
 <div style="display: flex; justify-content: center">
     <img src="./readme/gif.gif">
 </div>
+
+Link para o <a href="https://cronometro-ace.netlify.app">site</a> 
