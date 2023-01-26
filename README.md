@@ -91,4 +91,4 @@ Para resolução de <b>bugs</b> tive que criar uma variavel chama <span style="c
     <img src="./readme/gif.gif">
 </div>
 
-Link para o <a href="https://cronometro-ace.netlify.app">site</a> 
+Link para o <a href="https://rian-pedro.github.io/cronometro/">site</a> 
